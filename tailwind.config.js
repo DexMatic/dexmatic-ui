@@ -23,9 +23,9 @@ module.exports = {
           'pink-red-light-brown': ['#722704', '#722704'],
         },
         background: {
-          'dark-1000': '#0D0415',
-          'dark-900': '#161522',
-          'dark-800': '#202231',
+          'dark-1000': '#1a17d0',
+          'dark-900': '#1a17d0',
+          'dark-800': '#1a17d0',
           'dark-pink-red': '#4e3034',
         },
         border: {
