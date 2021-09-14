@@ -19,7 +19,7 @@ module.exports = {
           r: 'to right',
         },
         colors: {
-          'blue-pink': ['#722704', '#eb080a'],
+          'blue-pink': ['#722704', '#47160f'],
           'pink-red-light-brown': ['#722704', '#722704'],
         },
         background: {
@@ -51,7 +51,7 @@ module.exports = {
         'cyan-blue': '#0993EC',
         'dark-pink': '#221825',
         'dark-blue': '#0F182A',
-        'dark-1000': '#eb080a',
+        'dark-1000': '#47160f',
         'dark-900': '#161522',
         'dark-850': '#1d1e2c',
         'dark-800': '#202231',
