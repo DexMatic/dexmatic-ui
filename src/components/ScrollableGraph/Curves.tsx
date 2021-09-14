@@ -53,9 +53,9 @@ const axisLeftTickLabelProps = {
   fill: axisColor,
 }
 
-const purple1 = '#110b75'
-const purple2 = '#110b75'
-const purple3 = '#110b75'
+const purple1 = '#eb080a'
+const purple2 = '#eb080a'
+const purple3 = '#eb080a'
 
 const Curves = ({
   compact = false,
