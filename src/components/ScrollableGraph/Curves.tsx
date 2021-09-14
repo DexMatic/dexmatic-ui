@@ -23,7 +23,7 @@ const brushMargin = { top: 10, bottom: 15, left: 50, right: 20 }
 const chartSeparation = 30
 const PATTERN_ID = 'brush_pattern'
 
-const accentColor = '#6c5efb'
+const accentColor = '#eb080a'
 
 const selectedBrushStyle = {
   fill: `url(#${PATTERN_ID})`,
@@ -53,9 +53,9 @@ const axisLeftTickLabelProps = {
   fill: axisColor,
 }
 
-const purple1 = '#6c5efb'
-const purple2 = '#c998ff'
-const purple3 = '#a44afe'
+const purple1 = '#eb080a'
+const purple2 = '#eb080a'
+const purple3 = '#eb080a'
 
 const Curves = ({
   compact = false,
