@@ -6,7 +6,7 @@ export default function AnalyticsContainer({ children }): JSX.Element {
   return (
     <>
       <Head>
-        <title>DexMatic Liquidity Pair (SLP) Analytics | DexMatic /title>
+        <title>DexMatic Liquidity Pair (SLP) Analytics | DexMatic title>
         <meta name="description" content="DexMatic Liquidity Pair (SLP) Analytics by DexMatic " />
       </Head>
 
