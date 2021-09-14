@@ -36,9 +36,9 @@ module.exports = {
         },
       },
       colors: {
-        purple: '#a755dd',
+        purple: '#eb080a',
         blue: '#0993ec',
-        pink: '#f338c3',
+        pink: '#eb080a',
         green: '#7cff6b',
         red: '#ff3838',
         yellow: '#ffd166',
