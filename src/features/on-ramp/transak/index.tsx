@@ -33,7 +33,7 @@ export default function Buy() {
       // email: '', // Your customer's email address
       redirectURL: '',
       hostURL: window.location.origin,
-      themeColor: '#47160f',
+      themeColor: '#110b75',
       widgetHeight: '680px',
       widgetWidth: '100%',
       defaultNetwork: DEFAULT_NETWORK[chainId],

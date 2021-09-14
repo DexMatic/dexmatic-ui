@@ -131,7 +131,7 @@ function MyApp({
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="msapplication-config" content="/browserconfig.xml" />
         <meta name="msapplication-tap-highlight" content="no" />
-        <meta name="theme-color" content="#47160f" />
+        <meta name="theme-color" content="#110b75" />
 
         <meta key="twitter:card" name="twitter:card" content="app" />
         <meta key="twitter:title" name="twitter:title" content="DexMatic App" />
