@@ -19,8 +19,8 @@ module.exports = {
           r: 'to right',
         },
         colors: {
-          'blue-pink': ['#27B0E6', '#FA52A0'],
-          'pink-red-light-brown': ['#FE5A75', '#FEC464'],
+          'blue-pink': ['#722704', '#eb080a'],
+          'pink-red-light-brown': ['#722704', '#722704'],
         },
         background: {
           'dark-1000': '#0D0415',
