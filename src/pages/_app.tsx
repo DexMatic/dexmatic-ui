@@ -114,12 +114,12 @@ function MyApp({
           name="viewport"
           content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"
         />
-        <title key="title">SUSHI</title>
+        <title key="title">DexMatic</title>
 
         <meta
           key="description"
           name="description"
-          content="Be a DeFi Chef with Sushi. Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform. Welcome home to DeFi"
+          content="Welcome to DexMatic. Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform. Welcome home to DeFi"
         />
 
         <meta name="application-name" content="SUSHI App" />
@@ -131,7 +131,7 @@ function MyApp({
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="msapplication-config" content="/browserconfig.xml" />
         <meta name="msapplication-tap-highlight" content="no" />
-        <meta name="theme-color" content="#F338C3" />
+        <meta name="theme-color" content="#eb080a" />
 
         <meta key="twitter:card" name="twitter:card" content="app" />
         <meta key="twitter:title" name="twitter:title" content="DexMatic App" />
