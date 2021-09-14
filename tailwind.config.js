@@ -49,7 +49,7 @@ module.exports = {
         'light-brown': '#FEC464',
         'light-yellow': '#FFD166',
         'cyan-blue': '#0993EC',
-        'dark-pink': '#221825',
+        'dark-pink': '#eb080a',
         'dark-blue': '#0F182A',
         'dark-1000': '#110b75',
         'dark-900': '#161522',
