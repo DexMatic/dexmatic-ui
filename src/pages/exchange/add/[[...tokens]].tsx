@@ -315,7 +315,7 @@ export default function Add() {
   return (
     <>
       <Head>
-        <title>Add Liquidity | Sushi</title>
+        <title>Add Liquidity | DexMatic/title>
         <meta
           key="description"
           name="description"
